@@ -1,0 +1,12 @@
+.list {
+    padding-left: 14px;
+  }
+  
+  .item {
+    color: rgb(153, 151, 127);
+    text-decoration: underline;
+    font-size: 18px;
+  }
+  .item:hover {
+    color: rgb(224, 218, 141);
+  }

@@ -1,0 +1,31 @@
+.container {
+    margin-bottom: 20px;
+  }
+  
+  .form {
+    background-color: transparent;
+    border: 1px solid rgb(46, 112, 234);
+    width: 350px;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    padding: 3px;
+  }
+  
+  .btn {
+    background-color: transparent;
+    border: 1px solid rgb(46, 112, 234);
+    background-color: transparent;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 6px;
+    border: none;
+  }
+  
+  .input {
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    outline: transparent;
+  }

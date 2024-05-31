@@ -1,0 +1,17 @@
+.container {
+    padding: 20px;
+    border: 2px solid rgb(88, 134, 31);
+  }
+  
+  .error {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+  .link {
+    color: rgb(224, 218, 141);
+    text-decoration: underline;
+  }
+  .link:hover {
+    color: rgb(195, 207, 164);
+  }

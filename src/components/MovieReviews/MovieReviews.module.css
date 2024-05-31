@@ -1,0 +1,12 @@
+.list {
+    padding: 20px;
+  }
+  
+  .item {
+    padding-bottom: 20px;
+  }
+  
+  .author {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
